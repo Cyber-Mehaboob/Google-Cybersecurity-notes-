@@ -20,7 +20,7 @@
 ## Security controls
 - **Definition**: Security controls are specific measures, safeguards, or countermeasures implemented within an organization to protect the confidentiality, integrity, and availability of information and systems.
 
-- -**Purpose**: Controls are the actual tools, processes, or policies implemented to enforce security policies and guidelines outlined by the framework.
+- **Purpose**: Controls are the actual tools, processes, or policies implemented to enforce security policies and guidelines outlined by the framework.
   
 - **Examples**:
   1. Access controls (e.g., authentication mechanisms).
@@ -34,5 +34,5 @@
 **It is a foundational principle that is designed to guide the policies for information security**.
 
 - **Confidentiality** - Only authorized users can access specific assets or data.
-- **Integrity** - Data can not be altered in any unauthorized manner. data is correct, authentic and reliable.
-- **Availability** - Data is always accessible to those who are authorized to access it.
+- **Integrity** - Data can not be altered in any unauthorized manner and data is correct, authentic and reliable.
+- **Availability** - Ensuring timely and reliable access and use of information to authorized users.

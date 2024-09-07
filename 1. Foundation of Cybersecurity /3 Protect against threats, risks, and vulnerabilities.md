@@ -34,5 +34,8 @@
 **It is a foundational principle that is designed to guide the policies for information security**.
 
 - **Confidentiality** - Only authorized users can access specific assets or data.
+  - Eg : Access controls, principle of least privilege, Data classification
 - **Integrity** - Data can not be altered in any unauthorized manner and data is correct, authentic and reliable.
+  - Eg : Encryption, hashing, Input validation
 - **Availability** - Ensuring timely and reliable access and use of information to authorized users.
+  - Eg : Redundancy, Disaster recovery planning and Regular backups.
